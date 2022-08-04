@@ -500,4 +500,32 @@ main h2 {
     display: -ms-flexbox;
     display: flex; } }
 
+.faq-title {
+  font-size: 48px;
+  line-height: 72px;
+  font-weight: bold;
+  border-left: 8px solid #9F1213;
+  margin-top: 96px; }
+
+.faq-subtitle {
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: bold;
+  margin-top: 32px;
+  margin-bottom: 24px; }
+
+.faq-p {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  margin-bottom: 8px; }
+
+.faq-span {
+  display: block;
+  max-width: 900px;
+  margin-bottom: 32px; }
+
+.mb-80 {
+  margin-bottom: 80px; }
+
 /*# sourceMappingURL=all.css.map */
